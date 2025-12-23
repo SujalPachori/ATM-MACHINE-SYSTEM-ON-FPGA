@@ -52,8 +52,4 @@ The Verilog implementation consists of modules for deposit/withdrawal logic, 7-s
   - 4-digit 7-segment display.
   - DIP switches for currency selection.
   - Push buttons for deposit, withdrawal, and reset.
- 
 
-![Image](https://github.com/user-attachments/assets/9abe798c-e7c6-4195-8179-eca1ce081aaa)
-
-![Image](https://github.com/user-attachments/assets/7ed7eee8-0771-4949-acb5-fa27fb9f8881)
